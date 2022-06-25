@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Erick Barcasnegras
+- 👀 I’m interested in Software Engineering and Data Science
