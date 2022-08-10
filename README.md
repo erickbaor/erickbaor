@@ -3,3 +3,7 @@
 
 # Challenges Platform
 - [HackerRank](https://www.hackerrank.com/thebluengineer)
+
+# Online Code Editors
+- [Replit](https://replit.com/@thebluengineer)
+- [Codepen](https://codepen.io/thebluengineer)
