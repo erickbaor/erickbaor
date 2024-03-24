@@ -7,4 +7,4 @@
 
 # Online Code Editors
 - [Replit](https://replit.com/@thebluengineer)
-- [Codepen](https://codepen.io/thebluengineer)
+- [Codepen](https://codepen.io/erickbaor)
